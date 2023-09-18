@@ -16,3 +16,6 @@ The widget itself is quite easy to use, you need to move it to the rest of the p
 ![AI Chat](./images/image-2.png)
 
 
+3) How the widget looks on the desktop
+
+![AI Chat](./images/image-3.png)
